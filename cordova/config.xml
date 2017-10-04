@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="hello.app" version="1.0.0">
+  <name>Hello</name>
+  <description>
+    Hello-testi
+  </description>
+  <author email="tero.ulvinen@edu.vaasa.fi" href="http://vamia.fi">
+    TUL
+  </author>
+</widget>

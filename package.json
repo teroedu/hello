@@ -1,0 +1,9 @@
+{
+  "title": "HELLO",
+  "description": "Tabris.js - HELLO",
+  "category": "Small Apps",
+  "main": "src/hello.js",
+  "dependencies": {
+    "tabris": "^2.1.0"
+  }
+}
